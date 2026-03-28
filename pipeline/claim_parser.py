@@ -28,7 +28,7 @@ def parse_claim(claim_text: str) -> dict:
         message = client.messages.create(
             model="claude-sonnet-4-20250514",
             max_tokens=400,
-            system="""You are AlpineCheck. Extract structured data from a climate claim about the Alps.
+            system="""You are Glacious. Extract structured data from a climate claim about the Alps.
 
 Return ONLY valid JSON (no markdown, no code blocks):
 {

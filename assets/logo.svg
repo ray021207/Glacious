@@ -1,0 +1,39 @@
+<svg viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <style>
+      .mountain { fill: #1A1A1A; }
+      .snow { fill: #FFFFFF; }
+    </style>
+  </defs>
+  
+  <!-- Main mountain range silhouette -->
+  <path class="mountain" d="M 0 300 L 40 200 L 80 160 L 120 120 L 150 80 L 180 60 L 210 40 L 240 30 L 270 35 L 290 25 L 320 60 L 350 45 L 380 100 L 410 70 L 440 130 L 470 90 L 500 150 L 530 110 L 560 170 L 590 140 L 600 180 L 600 300 Z"/>
+  
+  <!-- Snow caps and highlights for main peaks -->
+  <!-- Left peak snow -->
+  <path class="snow" d="M 40 200 L 70 165 L 55 195 Z"/>
+  
+  <!-- Second peak snow -->
+  <path class="snow" d="M 120 120 L 155 75 L 130 115 Z"/>
+  <path class="snow" d="M 150 80 L 180 50 L 160 80 Z"/>
+  
+  <!-- Third peak snow -->
+  <path class="snow" d="M 210 40 L 245 25 L 220 42 Z"/>
+  
+  <!-- Center-left peak snow -->
+  <path class="snow" d="M 240 30 L 275 20 L 250 35 Z"/>
+  
+  <!-- Center peak snow -->
+  <path class="snow" d="M 290 25 L 325 45 L 300 30 Z"/>
+  <path class="snow" d="M 320 60 L 350 30 L 335 65 Z"/>
+  
+  <!-- Center-right peak snow -->
+  <path class="snow" d="M 380 100 L 415 60 L 395 105 Z"/>
+  
+  <!-- Right peak snow -->
+  <path class="snow" d="M 440 130 L 475 75 L 460 135 Z"/>
+  <path class="snow" d="M 500 150 L 535 95 L 520 155 Z"/>
+  
+  <!-- Far right peak snow -->
+  <path class="snow" d="M 560 170 L 595 135 L 575 175 Z"/>
+</svg>
