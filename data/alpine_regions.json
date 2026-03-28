@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Swiss Alps",
+    "country": "CH",
+    "lat": 46.8,
+    "lon": 8.5,
+    "area_km2": 4500,
+    "key_glaciers": ["Aletsch", "Gorner", "Rhône"]
+  },
+  {
+    "name": "French Alps",
+    "country": "FR",
+    "lat": 45.5,
+    "lon": 6.2,
+    "area_km2": 3500,
+    "key_glaciers": ["Mont Blanc", "Mer de Glace", "Chamonix"]
+  },
+  {
+    "name": "Italian Alps",
+    "country": "IT",
+    "lat": 46.2,
+    "lon": 11.0,
+    "area_km2": 4500,
+    "key_glaciers": ["Adamello", "Presanella", "Marmolada"]
+  },
+  {
+    "name": "Austrian Alps",
+    "country": "AT",
+    "lat": 47.5,
+    "lon": 12.5,
+    "area_km2": 5000,
+    "key_glaciers": ["Pasterze", "Ötztal", "Zillertal"]
+  },
+  {
+    "name": "Slovenian Alps",
+    "country": "SI",
+    "lat": 46.3,
+    "lon": 13.8,
+    "area_km2": 1500,
+    "key_glaciers": ["Triglav", "Skuta"]
+  },
+  {
+    "name": "Dolomites",
+    "country": "IT",
+    "lat": 46.4,
+    "lon": 12.2,
+    "area_km2": 280,
+    "key_glaciers": ["Marmolada"]
+  },
+  {
+    "name": "Mont Blanc Massif",
+    "country": "FR/IT",
+    "lat": 45.8,
+    "lon": 6.9,
+    "area_km2": 150,
+    "key_glaciers": ["Mont Blanc", "Mer de Glace"]
+  },
+  {
+    "name": "Pennine Alps",
+    "country": "CH/IT",
+    "lat": 46.3,
+    "lon": 8.2,
+    "area_km2": 800,
+    "key_glaciers": ["Gorner", "Matterhorn"]
+  },
+  {
+    "name": "Bernese Alps",
+    "country": "CH",
+    "lat": 46.6,
+    "lon": 8.1,
+    "area_km2": 900,
+    "key_glaciers": ["Aletsch", "Grindelwald"]
+  },
+  {
+    "name": "Eastern Alps",
+    "country": "AT/IT/SI",
+    "lat": 47.0,
+    "lon": 13.5,
+    "area_km2": 2000,
+    "key_glaciers": ["Pasterze", "Tröllinger"]
+  }
+]

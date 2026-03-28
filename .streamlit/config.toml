@@ -1,0 +1,22 @@
+# AlpineCheck Streamlit Configuration
+# Theme: Alpine Snowscape + Frost Crystal
+
+[theme]
+# Alpine Snowscape: Cool Gray (#2C3E50) + Snow White (#ECF0F1)
+# Frost Crystal: Navy (#001F3F) + Silver (#D1DCE0)
+
+primaryColor = "#5DADE2"        # Soft blue - interactive elements
+backgroundColor = "#0F1419"     # Deep snowfield (near-black)
+secondaryBackgroundColor = "#1A2332"  # Slightly lighter for cards
+textColor = "#ECF0F1"           # Frosted white - excellent readability
+font = "sans serif"
+
+[client]
+showErrorDetails = false
+toolbarMode = "minimal"
+
+[logger]
+level = "error"
+
+[browser]
+gatherUsageStats = false

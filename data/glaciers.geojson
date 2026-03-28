@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mont Blanc",
+        "region": "Mont Blanc",
+        "glacier_area_2000_km2": 40.0,
+        "glacier_area_2024_km2": 24.8,
+        "decline_percent": 38.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.8643, 45.8326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swiss Alps",
+        "region": "Swiss Alps",
+        "glacier_area_2000_km2": 950.0,
+        "glacier_area_2024_km2": 684.0,
+        "decline_percent": 28.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.5625, 46.5500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aletsch Glacier",
+        "region": "Aletsch",
+        "glacier_area_2000_km2": 86.0,
+        "glacier_area_2024_km2": 73.1,
+        "decline_percent": 15.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.3939, 46.3928]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dolomites",
+        "region": "Dolomites",
+        "glacier_area_2000_km2": 35.0,
+        "glacier_area_2024_km2": 20.3,
+        "decline_percent": 42.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.0000, 46.3500]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Austrian Alps",
+        "region": "Austrian Alps",
+        "glacier_area_2000_km2": 470.0,
+        "glacier_area_2024_km2": 319.6,
+        "decline_percent": 32.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.5000, 47.3000]
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+streamlit>=1.32.0
+anthropic>=0.25.0
+pandas
+numpy
+geopandas
+requests
+Pillow
+plotly>=5.18.0
+folium
+streamlit-folium
+scikit-learn
+python-dotenv
+shapely
+pyproj
+scipy
+langdetect
+

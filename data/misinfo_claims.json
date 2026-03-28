@@ -1,0 +1,50 @@
+[
+  {
+    "claim": "Alpine glaciers are not melting significantly",
+    "verdict": "False",
+    "accurate_info": "Alpine glaciers have lost approximately 30% area since 1980 and continue experiencing accelerating mass loss (averaging -1-3 Gt/year)",
+    "languages": ["en", "de", "fr", "it"]
+  },
+  {
+    "claim": "Snow cover in the Alps is stable or increasing",
+    "verdict": "False",
+    "accurate_info": "Alpine snow cover duration is declining approximately 2.3 days per year on average, with higher rates in southern ranges (3+ days/year)",
+    "languages": ["en", "fr", "de"]
+  },
+  {
+    "claim": "Alpine warming is due to natural cycles, not greenhouse gases",
+    "verdict": "Misleading",
+    "accurate_info": "Alpine warming (+2.1°C since 1880, ~2x global average) is driven primarily by anthropogenic greenhouse gas forcing, with secondary natural oscillations",
+    "languages": ["en", "de", "fr"]
+  },
+  {
+    "claim": "Permafrost thaw in the Alps is reversible and not a concern",
+    "verdict": "False",
+    "accurate_info": "Alpine permafrost degradation is accelerating; thawing at 0.2°C/decade even at depth and triggers rockfall/infrastructure destabilization",
+    "languages": ["en", "de"]
+  },
+  {
+    "claim": "Alpine vegetation is spreading and shows ecosystem improvement",
+    "verdict": "Misleading",
+    "accurate_info": "While treeline advances indicate some colonization, alpine plant communities are experiencing species loss, range compression, and altered phenology",
+    "languages": ["en", "de", "fr"]
+  },
+  {
+    "claim": "Avalanche hazards in the Alps are decreasing due to less snow",
+    "verdict": "Misleading",
+    "accurate_info": "Avalanche hazard patterns are changing; reduced but more extreme precipitation events combined with rapid warming increase instability",
+    "languages": ["en", "de"]
+  },
+  {
+    "claim": "Alpine water supplies are secure despite glacier loss",
+    "verdict": "False",
+    "accurate_info": "14 million downstream Alpine inhabitants depend on glacier meltwater; continued loss threatens summer water availability for agriculture, irrigation, and hydropower",
+    "languages": ["en", "de", "fr", "it"]
+  },
+  {
+    "claim": "Local actions in mountain villages cannot affect global glacier trends",
+    "verdict": "False",
+    "accurate_info": "While driven primarily by global forcing, regional black carbon deposition, land use, and air pollution measurably accelerate local Alpine glacier loss",
+    "languages": ["en", "de"]
+  }
+]
