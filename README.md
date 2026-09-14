@@ -1,5 +1,5 @@
 # Glacious
-
+https://glacious.streamlit.app/
 **Satellite-powered Alpine climate intelligence for journalists**
 
 Glacious is a professional climate intelligence dashboard designed for Alpine journalists to analyze satellite data, verify climate claims, and understand complex climate trends across Alpine regions. Built with Streamlit, Plotly, and Folium, it combines real-time satellite data with interactive visualizations to make climate science accessible and credible.
