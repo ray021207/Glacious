@@ -491,8 +491,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Authors
 
-- **Ray Chen** — Core development, satellite data integration, AI pipeline
-- **Alpine Climate Research Team** — Scientific consultation and data validation
+- **Ray Panibhate** — Core development, satellite data integration, AI pipeline
+- **Manasa Sreeram** — Scientific consultation and data validation
 
 ## Acknowledgments
 
@@ -504,10 +504,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Support & Feedback
 
-- **Issues**: [GitHub Issues](https://github.com/ray021207/Glacious/issues)
-- **Email**: contact@glacious.io
-- **Twitter**: [@GlaciousApp](https://twitter.com/GlaciousApp)
-
+- **Email**: reshma.panibhate@gmail.com
 ---
 
 **Last Updated**: March 28, 2026 | **Version**: 1.0 | **Status**: Production Ready ✅
